@@ -3,7 +3,7 @@ import  AppLayout from './layouts/AppLayout';
 import LandingPage from './Pages/LandingPage';
 import Job from './Pages/Job';
 import MyJobs from './Pages/MyJobs';
-import JobListing from './Pages/jobListing';
+import JobListing from './Pages/JobListing';
 import PostJobs from './Pages/PostJobs';
 import SavedJobs from './Pages/SavedJobs';
 import OnBoarding from './Pages/OnBoarding';
